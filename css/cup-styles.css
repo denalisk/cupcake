@@ -21,3 +21,16 @@ div.season-container {
   text-align: center;
   background-color: #72d6db;
 }
+
+div img {
+  height: 250px;
+  border-radius: 50%;
+}
+
+div {
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;  
+}
