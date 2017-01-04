@@ -1,0 +1,23 @@
+body {
+  color: turquoise;
+}
+
+div.culture-container {
+  text-align: center;
+  background-color: purple;
+}
+
+div.party-container {
+  text-align: left;
+  background-color: lightblue;
+}
+
+div.geo-container {
+  text-align: right;
+  background-color: darkgreen;
+}
+
+div.season-container {
+  text-align: center;
+  background-color: #72d6db;
+}
